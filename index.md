@@ -1,16 +1,5 @@
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
-
-<div id="container">
+<div id="container" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
     <img src="https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=300" />
-    This is an image
 </div>
 
 ## Shalo!
