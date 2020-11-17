@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About me
+title: Acerca de mi
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Salomón Vargas. y me gusta:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Me gusta el buen humor.
+- Me encanta pasar tiempo con mi familia
+- Apasionado pero introvertido
+- 
 
-What else do you need?
+Espero poderte ayudar mientras crezco como profesional
+
+![alt text](https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=100 "Salomón Vargas")
 
 ### My story
 
