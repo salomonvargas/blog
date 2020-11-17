@@ -3,7 +3,7 @@ email: salomonvargas@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hola!!, mi nombre es Salomón Vargas, ingeniero en sistemas de información y entusiasta de la automatización.
   Espero encuentres en esta página información de interés sobre la tecnología y el mundo de la integración y despliegue continuo
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "./" # the subpath of your site, e.g. /blog
 twitter_username: salomnvargas
 github_username:  salomonvargas
 theme: jekyll-theme-midnight
