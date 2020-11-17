@@ -19,7 +19,7 @@ Lo primero es determinar el significado de la frase. Esta proviene del manejo o 
 ![alt text](../assets/img/cattlenopets/mascota.jpg "Mascota Confundida")
 
 <p style='text-align: justify;'>
-La cultura del “Cattle, no pets”, pretende que nuestra infraestructura, servicios, aplicaciones y demás componentes tecnológicos que hay en nuestras empresas sean tratados como lo que son “un negocio” y no como piezas irremplazables (como lo son las mascotas en nuestras vidas).  Y probablemente te estás preguntando si esta comparación no es un tanto grotesca. Quizás sí, el termino, es un poco impactante, pero da, en el que lo comprende, un duro golpe de realidad y cambia el punto de vista sobre los componentes que administrados y operamos en el mundo de la tecnología.
+La cultura del “Cattle, no pets”, pretende que nuestra infraestructura, servicios, aplicaciones y demás componentes tecnológicos que hay en nuestras empresas sean tratados como lo que son “un negocio” y no como piezas irremplazables (como lo son las mascotas en nuestras vidas).  Y probablemente te estás preguntando si esta comparación no es un tanto grotesca. Quizás sí, el termino, es un poco impactante, pero da, en el que lo comprende, un duro golpe de realidad y cambia el punto de vista sobre los componentes que administramos y operamos en el mundo de la tecnología.
 </p>
 
 <p style='text-align: justify;'>
@@ -27,7 +27,7 @@ Pero. ¿y la cultura? Bien, la cultura del “Cattle, no pets” pretende que al
 </p>
 
 <p style='text-align: justify;'>
-Entonces, ¿Qué significa encariñarte con un componente? Y ¿Cómo evito encariñarme con mis servidores u otros componentes? Bien, lo primero acepta el hecho de que se pueden enfermar o morir en cualquier momento, y un componente enfermo al igual que en la ganadería, verás que termina enfermando a los demás componentes. Así bien, aceptando esto empezarás a ver que necesitarás tener la capacidad de crear otro servidor (vaquita) tan rápido como puedas y que te haga la misma tarea que el anterior (empiece a producir leche de inmediato) 
+Entonces, ¿Qué significa encariñarte con un componente? Y ¿Cómo evito encariñarme con mis servidores u otros componentes? Bien, acepta el hecho de que se pueden enfermar o morir en cualquier momento, y un componente enfermo al igual que en la ganadería, verás que termina enfermando a los demás componentes. Así bien, aceptando esto empezarás a ver que necesitarás tener la capacidad de crear otro servidor (vaquita) tan rápido como puedas y que te haga la misma tarea que el anterior (empiece a producir leche de inmediato) 
 </p>
 
 <p style='text-align: justify;'>
@@ -51,7 +51,7 @@ Los scripts al final son código fuente así que no olvides versionarlos en un r
 ## Cuida los pequeños detalles
 <p style='text-align: justify;'>
 Los pequeños detalles hacen la diferencia, puedes verlo en productos de marcas originales vs las copias, donde ves costuras salidas, materiales de mala calidad. Acá no es la excepción y pensar que una configuración que te toma 1 minuto hacer a mano no amerita ser versionada en scripts. Esto es un grave muy grave error. Si tu vaca muere y tratas de recrearla, de seguro olvidarás esa configuración y tu servicio no funcionará o lo hará mal hasta que diagnostiques ese problema y eso te tomará tiempo y dinero en resolver.
-Ten la disciplina de automatizarlo sin importar lo pequeño que este cambio o configuración sea y verás que cuando recrees una máquina o servicio esté funcionará a la primera sin errores, pues no dejaste ni una sola configuración fuera del proceso automático.
+Ten la disciplina de automatizarlo sin importar lo pequeño que este cambio o configuración sea y verás que cuando recrees una máquina o servicio esté funcionará a la primera sin errores, pues no dejaste ni una sola configuración fuera del proceso automático. Y si la encuentras en cualquier momento, incluyela en los procesos de automatización.
 </p>
 
 ## Ayuda a otros a comprender la cultura
