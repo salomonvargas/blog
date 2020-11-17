@@ -1,4 +1,4 @@
-## <div style="text-align:center"><img src="https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=500" /></div>
+## <div style="text-align:center"><img src="https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=300" /></div>
 ## Shalo!
 
 Hola!!, mi nombre es Salomón Vargas, ingeniero en sistemas de información y entusiasta de la automatización.
