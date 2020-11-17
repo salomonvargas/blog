@@ -2,9 +2,9 @@
 ##### [Regresar](https://salomonvargas.github.io/shalo-universe/index)
 
 
-> ## [Lunes 16 de Noviembre 2020 - Database Migrations](https://salomonvargas.github.io/shalo-universe/blog/databasemigrations)
+> ## [Miércoles 18 de Noviembre 2020 - Cultura "Cattle, no pets"](https://salomonvargas.github.io/shalo-universe/blog/cattlenopets)
 >
-> ¿Qué son las migraciones de datos? y ¿Por qué es importante implementarlas?
+> ¿Qué es esta cultura? y ¿Por qué debemos practicarla?
 >
 > Las respuestas a estas interrogantes y más en este artículo
 
