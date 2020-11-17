@@ -4,8 +4,9 @@ title: Cattle, no pets!
 subtitle: Una increíble cultura que debemos adoptar
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/NoPets.jpg
-share-img: /assets/img/path.jpg
+#share-img: /assets/img/path.jpg
 tags: [DevOps, Culture, Cattle, Pets]
+comments: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a pharetra turpis. Aenean eu enim mattis, pretium lorem sit amet, euismod ante. Nulla volutpat id mi sed mollis. Proin nisi arcu, rhoncus et nulla eu, egestas egestas massa. Mauris ultrices felis quis ex finibus, nec scelerisque nulla aliquet. Phasellus non mattis nibh, volutpat sagittis sem. Etiam nec augue tincidunt, dictum eros et, sollicitudin magna. Proin nec tortor ante. Maecenas finibus lorem libero, et hendrerit ex fermentum quis. Mauris aliquam, dui elementum iaculis mattis, libero eros viverra ipsum, vel volutpat est sapien quis lectus. Mauris fringilla tempus metus.
