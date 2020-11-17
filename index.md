@@ -7,4 +7,4 @@
 Hola!!, mi nombre es Salomón Vargas, ingeniero en sistemas de información y entusiasta de la automatización.
 Espero encuentres en esta página información de interés sobre la tecnología y el mundo de la integración y despliegue continuo
 
-[Blog](https://salomonvargas.github.io/shalo-universe/bl.md)
+[Blog](https://salomonvargas.github.io/shalo-universe/bl)
