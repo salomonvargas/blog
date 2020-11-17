@@ -31,7 +31,7 @@ github_username:  salomonvargas
 
 # Build settings
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
