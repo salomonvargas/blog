@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de mi
-subtitle: Why you'd want to go on a date with me
+subtitle: ¡La pinta es lo de menos!
 ---
 
 Mi nombre es Salomón Vargas. y me gusta:
@@ -9,12 +9,15 @@ Mi nombre es Salomón Vargas. y me gusta:
 - Me gusta el buen humor.
 - Me encanta pasar tiempo con mi familia
 - Apasionado pero introvertido
-- 
 
-Espero poderte ayudar mientras crezco como profesional
+![alt text](https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=100 "Salomón Vargas") Espero poderte ayudar mientras crezco como profesional
 
-![alt text](https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=100 "Salomón Vargas")
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Un poco de historia
+
+Nací el siglo pasado, en una familia amorsa en el sur de [Costa Rica](https://es.wikipedia.org/wiki/Costa_Rica).
+
+Desde estudiante de secundaria me encantaban las computadoras, programación y tecnologías, por lo que cursé mis estudios universitarios en la [Universidad Nacional de Costa Rica](https://es.wikipedia.org/wiki/Universidad_Nacional_de_Costa_Rica).
+
+Actualmente trabajo en el aréa de tecnologías, principalmente con tareas de integración y despliegue continuo, automatizando y mejorando procesos que hasta la fecha eran complejos, dificiles o manuales.
