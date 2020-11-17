@@ -20,8 +20,8 @@
 
 title: Shalo Universe
 email: salomonvargas@outlook.com
-description: ""
-#baseurl: "" # the subpath of your site, e.g. /blog
+description: "descrip"
+baseurl: "./" # the subpath of your site, e.g. /blog
 url: "https://salomonvargas.github.io/shalo-universe" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
