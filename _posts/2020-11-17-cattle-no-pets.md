@@ -13,7 +13,8 @@ comments: true
 De seguro te preguntarás es la relación entre ganado (cattle) y las mascotas (pets), y aun más allá, del como estos dos términos tienen relación con la cultura y las tecnologías de información.
 
 Lo primero es determinar el significado de la frase. Esta proviene del manejo o trato diferenciado que actualmente se les dan a diferentes animales. Sabemos que no tenemos vacas en nuestras casas, sentadas en nuestros regazos. Ni tampoco criamos animales como gatos, o perros en campos abiertos. Pues es de esta diferencia en el trato de los animales de granja y animales domésticos o mascotas que surge esta cultura.
-![alt text](/assets/img/cattlenopets/mascota.jpg "Mascota Confundida")
+
+![alt text](./assets/img/cattlenopets/mascota.jpg "Mascota Confundida")
 
 La cultura del “Cattle, no pets”, pretende que nuestra infraestructura, servicios, aplicaciones y demás componentes tecnológicos que hay en nuestras empresas sean tratados como lo que son “un negocio” y no como piezas irremplazables (como lo son las mascotas en nuestras vidas).  Y probablemente te estás preguntando si esta comparación no es un tanto grotesca. Quizás sí, el termino, es un poco impactante, pero da, en el que lo comprende, un duro golpe de realidad y cambia el punto de vista sobre los componentes que administrados y operamos en el mundo de la tecnología.
 
