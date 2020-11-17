@@ -18,6 +18,8 @@ Mi nombre es Salomón Vargas. y me gusta:
 
 Nací el siglo pasado, en una familia amorsa en el sur de [Costa Rica](https://es.wikipedia.org/wiki/Costa_Rica).
 
-Desde estudiante de secundaria me encantaban las computadoras, programación y tecnologías, por lo que cursé mis estudios universitarios en la [Universidad Nacional de Costa Rica](https://es.wikipedia.org/wiki/Universidad_Nacional_de_Costa_Rica).
+Desde estudiante de secundaria me encantaban las computadoras, programación y tecnologías, por lo que cursé mis estudios universitarios en la [Universidad Nacional de Costa Rica](https://es.wikipedia.org/wiki/Universidad_Nacional_de_Costa_Rica), obteniendo el título de analista programador.
 
 Actualmente trabajo en el aréa de tecnologías, principalmente con tareas de integración y despliegue continuo, automatizando y mejorando procesos que hasta la fecha eran complejos, dificiles o manuales.
+
+Mi trabajo me apasiona y me motiva todos los días.
