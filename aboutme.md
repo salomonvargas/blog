@@ -10,8 +10,9 @@ Mi nombre es Salomón Vargas. y me gusta:
 - Pasar tiempo con mi familia
 - Apasionado pero introvertido
 
-<div style="background-color: #404040; width: 100%">
-![alt text](https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=100 "Salomón Vargas") Espero poderte ayudar mientras crezco como profesional
+<div style="background-color: #99302A; width: 100%">
+    <img src="https://s.gravatar.com/avatar/5045fb8aeb55c9bf1f60d26af056f594?s=100" alt="Salomón Vargas">
+    Espero poderte ayudar mientras crezco como profesional
 </div>
 
 
