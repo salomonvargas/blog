@@ -65,3 +65,8 @@ Perdón por ser tan crudo nuevamente, pero debes asegurarte de que puedes crear 
 Aleatoriamente y de una forma planificada (respaldando todo lo importante) destruye una vaca y toma las métricas de cuanto tiempo te tomo tener el componente operando nuevamente, verifica si alguna configuración se quedó por fuera y debes incluirla en los scripts y automatización. 
 Si haces esto periódicamente y en diferentes componentes te iras asegurando que todo va por buen camino. Es el mismo principio por el cual se hacen simulacros.
 </p>
+
+# Conclusión
+<p style='text-align: justify;'>
+Me alegra que otra persona más se haya interesado en temas culturales para mejorar los productos y ambientes en los que trabajamos. Y es importante que tengas presente que esto no se logra de la noche a la mañana, y que se requiere de mucha disciplina y siempre deseos de hacer las tareas de la mejor forma, sin embargo, las recompensas son buenas, satisfactorias.
+</p>
