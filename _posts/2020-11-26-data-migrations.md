@@ -12,7 +12,7 @@ comments: true
 ¿Alguna vez se han encontrado con alguna tarea que todos llaman “imposible”? esto me ocurrió cuando empecé a trabajar con integraciones y en especial con despliegue continuo de bases de datos, me encontré en casi todas las áreas que consultaba (desarrollo, operaciones, soporte, etc.) la negativa respuesta a los despliegues de bases de datos.
 </p>
 
-<div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
+<div style="width: 100%; text-align: center;">
     <p><img src="../assets/img/schemamigrations/raptor-impossible.jpg " alt="Raptor"></p>
 </div>
 
