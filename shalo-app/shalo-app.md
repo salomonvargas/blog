@@ -26,8 +26,20 @@ subtitle: Una caja de herramientas para tu consola
 <div class="row">
   <div class="column">
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
-      # Microsoft Windows
+      <h1>Microsoft Windows</h1>
       <p><img src="../../assets/img/icons/Windows.svg" alt="Microsoft Windows" width="150" height="150"></p>
+      <h2>Proceso de instalación</h2>
+      <h3>Abra la terminal de powershell como administrador y ejecute el siguiente comando</h3>
+      <figure>
+        <figcaption>Your code title</figcaption>
+        <pre>
+          <code>
+            wget asdñlkasñdlksd
+            new-item
+            copy-iptem
+          </code>
+        </pre>
+      </figure>
     </div>
   </div>
   <div class="column">
