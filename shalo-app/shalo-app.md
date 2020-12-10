@@ -3,56 +3,22 @@ layout: page
 title: Shalo App
 subtitle: Una caja de herramientas para tu consola
 ---
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.row {
-  display: flex;
-}
+# ¿Para qué sirve esta aplicación?
+Shalo app es una aplicación que pretende incluir multiples funcionalidades a tu consola, como resguardo de links, snippets o secretos.
 
-/* Create two equal columns that sits next to each other */
-.column {
-  flex: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
-</style>
-</head>
-<body>
-<div class="row">
-  <div class="column">
-    <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
-      <p><img src="../../assets/img/icons/Windows.svg" alt="Microsoft Windows" width="150" height="150"></p>
-      <figure  style="text-align: left; color:#D5D5D5;">
-        <figcaption>Microsoft Windows</figcaption>
-        <pre>
-          <code>
-            iex ((New-Object System.Net.WebClient).DownloadString('https://salomonvargas.github.io/shalo-universe/shalo-app/versions/1.0.0/win/shalo.ps1'))
-          </code>
-        </pre>
-      </figure>
-    </div>
-  </div>
-</div>
-<div class="row">
-  <div class="column">
-    <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
-      <p><img src="../../assets/img/icons/gnu-linux.png" alt="GNU Linux" width="150" height="150"></p>
-      <figure  style="text-align: left; color:#D5D5D5;">
-        <figcaption>GNU/Linux</figcaption>
-        <pre>
-          <code>
-            curl http.......
-            chmod +x
-            sh ....
-          </code>
-        </pre>
-      </figure>
-    </div>
-  </div>
-</div>
-</body>|
+
+## Instalación para Windows
+Para instalar en sistemas operativos Windows abra Powershell como administrador y ejecute el siguiente comando
+```Powershell
+iex ((New-Object System.Net.WebClient).DownloadString('https://salomonvargas.github.io/shalo-universe/shalo-app/versions/1.0.0/win/shalo.ps1'))
+```
+ 
+
+## Instalación para GNU / Linux
+Para instalar en sistemas operativos GNU / Linux abra la terminal y ejecute los siguientes comandos
+```Bash
+curl https://salomonvargas.github.io/shalo-universe/shalo-app/versions/1.0.0/linux/shalo.sh -o shalo.sh
+sudo chmod +x shalo.sh
+sudo sh shalo.sh
+```
