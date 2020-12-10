@@ -22,14 +22,13 @@ subtitle: Una caja de herramientas para tu consola
 }
 </style>
 </head>
-
-<div class="row">
+<body>
+<div class="row" style="height: 800px">
   <div class="column">
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
-      <h1>Microsoft Windows</h1>
       <p><img src="../../assets/img/icons/Windows.svg" alt="Microsoft Windows" width="150" height="150"></p>
-      <figure  style="text-align: left;">
-        <figcaption>Abra la terminal de powershell como administrador y ejecute el siguiente comando</figcaption>
+      <figure  style="text-align: left; color:#D5D5D5;">
+        <figcaption>Microsoft Windows</figcaption>
         <pre>
           <code>
             wget asdñlkasñdlksd
@@ -42,10 +41,9 @@ subtitle: Una caja de herramientas para tu consola
   </div>
   <div class="column">
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
-      # GNU/Linux
       <p><img src="../../assets/img/icons/gnu-linux.png" alt="GNU Linux" width="150" height="150"></p>
-      <figure  style="text-align: left;">
-        <figcaption>Abra la terminal y ejecute el siguiente comando</figcaption>
+      <figure  style="text-align: left; color:#D5D5D5;">
+        <figcaption>GNU/Linux</figcaption>
         <pre>
           <code>
             curl http.......
@@ -57,3 +55,4 @@ subtitle: Una caja de herramientas para tu consola
     </div>
   </div>
 </div>
+</body>
