@@ -31,9 +31,7 @@ subtitle: Una caja de herramientas para tu consola
         <figcaption>Microsoft Windows</figcaption>
         <pre>
           <code>
-            wget asdñlkasñdlksd
-            new-item
-            copy-iptem
+            iex ((New-Object System.Net.WebClient).DownloadString('https://salomonvargas.github.io/shalo-universe/shalo-app/versions/1.0.0/win/shalo.ps1'))
           </code>
         </pre>
       </figure>
