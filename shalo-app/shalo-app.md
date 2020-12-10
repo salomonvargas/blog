@@ -14,6 +14,7 @@ Para instalar en sistemas operativos Windows abra Powershell como administrador 
 iex ((New-Object System.Net.WebClient).DownloadString('https://salomonvargas.github.io/shalo-universe/shalo-app/versions/1.0.0/win/shalo.ps1'))
 ```
  
+ ## 
 
 ## Instalación para GNU / Linux
 Para instalar en sistemas operativos GNU / Linux abra la terminal y ejecute los siguientes comandos
