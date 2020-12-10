@@ -16,6 +16,7 @@ author: Salomón Vargas
 navbar-links:
   Acerca de mi: "aboutme"
   Recursos:
+    - Shalo App: "/shalo-app/shalo-app/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Aprende markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
