@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Shalo App
-subtitle: Una caja de herramientas para tu consola
+subtitle: Una caja de herramientas para tu terminal
 ---
 
 # ¿Para qué sirve esta aplicación?
-Shalo app es una aplicación para incluir multiples funcionalidades a tu consola, como resguardo de links, snippets información del sistema o resguardo de secretos.
+Shalo app es una aplicación para incluir multiples funcionalidades a tu terminal, como resguardo de links, snippets, información del sistema o resguardo de secretos.
 
 
 ## Instalación para Windows
