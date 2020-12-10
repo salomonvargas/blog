@@ -23,7 +23,7 @@ subtitle: Una caja de herramientas para tu consola
 </style>
 </head>
 <body>
-<div class="row" style="height: 800px">
+<div class="row">
   <div class="column">
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
       <p><img src="../../assets/img/icons/Windows.svg" alt="Microsoft Windows" width="150" height="150"></p>
