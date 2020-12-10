@@ -37,6 +37,8 @@ subtitle: Una caja de herramientas para tu consola
       </figure>
     </div>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
       <p><img src="../../assets/img/icons/gnu-linux.png" alt="GNU Linux" width="150" height="150"></p>
@@ -53,4 +55,4 @@ subtitle: Una caja de herramientas para tu consola
     </div>
   </div>
 </div>
-</body>
+</body>|
