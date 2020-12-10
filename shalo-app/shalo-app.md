@@ -28,10 +28,8 @@ subtitle: Una caja de herramientas para tu consola
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
       <h1>Microsoft Windows</h1>
       <p><img src="../../assets/img/icons/Windows.svg" alt="Microsoft Windows" width="150" height="150"></p>
-      <h2>Proceso de instalación</h2>
-      <h3>Abra la terminal de powershell como administrador y ejecute el siguiente comando</h3>
-      <figure>
-        <figcaption>Your code title</figcaption>
+      <figure  style="text-align: left;">
+        <figcaption>Abra la terminal de powershell como administrador y ejecute el siguiente comando</figcaption>
         <pre>
           <code>
             wget asdñlkasñdlksd
@@ -46,6 +44,16 @@ subtitle: Una caja de herramientas para tu consola
     <div style="background-color: #99302A; color:#D5D5D5; width: 100%; text-align: center;">
       # GNU/Linux
       <p><img src="../../assets/img/icons/gnu-linux.png" alt="GNU Linux" width="150" height="150"></p>
+      <figure  style="text-align: left;">
+        <figcaption>Abra la terminal y ejecute el siguiente comando</figcaption>
+        <pre>
+          <code>
+            curl http.......
+            chmod +x
+            sh ....
+          </code>
+        </pre>
+      </figure>
     </div>
   </div>
 </div>
