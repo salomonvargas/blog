@@ -19,7 +19,9 @@ Primero lo primero, seguramente sabrás lo que es un API, pero de igual forma ha
 API viene del inglés “Application Programming Interfaces”, y lo que viene siendo es un protocolo y definiciones para que dos aplicaciones se comuniquen de una forma estándar.  
 Con las arquitecturas más modernas de software, donde se busca la baja cohesión y alto acoplamiento, se vuelven los API’s una herramienta muy práctica.
 </p>
-![alt text](../assets/img/memes/numbersbaby.jpg "Baby Numbers")
+<div style="width: 100%; text-align: center;">
+    <p><img src="../assets/img/memes/numbersbaby.jpg" alt="Baby Numbers"></p>
+</div>
 
 # ¿Dónde se usan API’s?
 <p style='text-align: justify;'>
