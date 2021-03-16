@@ -41,11 +41,11 @@ Los números de versión de los API’s usualmente constan de uno o dos grupos d
 </p>
 
 <p style='text-align: justify;'>
-Bien, lo que ocurre diferente con los API’s es que cada uno de nosotros de forma personal tiene una aplicación determinada en una versión X del tiempo. En ese momento el fabricante libera una actualización (bastante novedosa), pero este fabricante no tiene forma de corrdinar que todos los usuarios actualicemos la aplicación de forma sincronizada, todos estamos en regiones diferentes del planeta, con zonas horarias diferentes, velocidades de internet distintas (algunos con conexiones fijas, otros con móviles con planes o incluso, móviles pre pago y restricciones por descargas), sin mencionar los intereses de cada uno en conseguir la flamante actualización, y tampoco podemos olvidar las limitaciones de cada sistema operativo. De esta forma el fabricante junto con la aplicación nueva, libera una nueva versión del API, de esta forma los usuarios que actualicen su aplicación consumirán el API en la versión más reciente, y los que aun no lo hacen, o del todo no quieren hacerlo, continúan consumiendo la versión más antigua del API.
+Bien, lo que ocurre diferente con los API’s es que cada uno de nosotros de forma personal tiene una aplicación determinada en una versión determinada del tiempo. En ese momento el fabricante libera una actualización (bastante novedosa), pero este fabricante no tiene forma de corrdinar que todos los usuarios actualicemos la aplicación de forma sincronizada, todos estamos en regiones diferentes del planeta, con zonas horarias diferentes, velocidades de internet distintas (algunos con conexiones fijas, otros con móviles con planes o incluso, móviles pre pago y restricciones por descargas), sin mencionar los intereses de cada uno en conseguir la flamante actualización, y tampoco podemos olvidar las limitaciones de cada sistema operativo. De esta forma el fabricante junto con la aplicación nueva, libera una nueva versión del API, de esta forma los usuarios que actualicen su aplicación consumirán el API en la versión más reciente, y los que aun no lo hacen, o del todo no quieren hacerlo, continúan consumiendo la versión más antigua del API.
 </p>
 
 <p style='text-align: justify;'>
-Con esto, se garantiza que los clientes tengan continuidad del servicio sin importar si ya han aplicado la actualización o no. E incluso, si les es factible o no aplicarla, ya que hay escenarios donde aplicaciones dejan de mejorar un determina sector de mercado y solo le dan parches de seguridad.
+Con esto, se garantiza que los clientes tengan continuidad del servicio sin importar si ya han aplicado la actualización o no. E incluso, si les es factible o no aplicarla, ya que hay escenarios donde aplicaciones dejan de mejorar un determinado sector de mercado y solo le dan parches de seguridad.
 </p>
 
 <p style='text-align: justify;'>
@@ -64,7 +64,7 @@ En otras palabras, el número de versión del API cambia, cuando se sabe que los
 <p style='text-align: justify;'>
 A continuación, te doy una lista de cambios en el API, que de seguro requerirán un cambio en el número de versión, junto con una muy breve descripción de la razón del cambio.
 </p>
- 1. Se cambian los parámetros de entrada un parámetro adicional en un request al API: En este caso, si parámetro adicional no es opcional, el consumidor está en obligación de enviarlo, pero su aplicación no está preparada para enviarlo, por lo que, de no hacer el cambio de versión de API, dicha aplicación va a fallar. Si el parámetro es opcional y no hay afectación en el consumidor por no enviarlo, no existe cambio en el número de versión.
+ 1. Se cambian los parámetros de entrada agregando un parámetro adicional en un request al API: En este caso, si parámetro adicional no es opcional, el consumidor está en obligación de enviarlo, pero su aplicación no está preparada para enviarlo, por lo que, de no hacer el cambio de versión de API, dicha aplicación va a fallar. Si el parámetro es opcional y no hay afectación en el consumidor por no enviarlo, no existe cambio en el número de versión.
 2. Cambios en los parámetros de entrada, cambios en el tipo de dato en el request del API: Si tenemos un request que pide un valor entero, y ahora lo pedimos en cualquier otro tipo de dato como cadena, booleano, etc, provocaría una falla en los consumidores. Por lo que en este caso también aplica un cambio en el número de versión del API.
 3. Se elimina una funcionalidad (deprecated): en este escenario, se sugiere también el cambio de número de versión, ya que si existen clientes que usan la funcionalidad y la eliminamos van a tener afectación, y si la mantenemos, los consumidores no obtarán por dejar de usar dicha funcionalidad, por lo que en este caso, se mantiene en la versión actual, y en la nueva versión del API, se procede a eliminarla para que cuando los consumidores migren a la versión más reciente, se preparen para la funcionalidad eliminada.
 4. Cualquier cambio en las firmas de la respuesta del API (cambio de firmas): Si bien la mayoría de los procesos de consulta de API’s utilizan deserialización, no podemos dar por un hecho que lo hacen y que los procesos que han programado los desarrolladores del consumidor son compatibles con una firma distinta en las respuestas del API. Por esta razón estos cambios también implican un cambio en la versión del API. 
@@ -77,8 +77,8 @@ Usualmente los podemos definir en dos posibles lugares (para consumir el API), a
 <p style='text-align: justify;'>
 El primero de estos caminos, es cuando el número de versión está en la URL para consumir el API, de esta forma tendríamos URL como las siguientes
 </p>
-• https://company.api/v1/security
-• https://company.api/v2/security
+• https://api.company/v1/security
+• https://api.company/v2/security
 
 <p style='text-align: justify;'>
 Los defensores de este enfoque indican que las URL deben ser únicas para un recurso, por lo que al modificar la URL (con el número de versión) es transparente para los consumidores que están consumiendo una versión del API y que esta se mantiene única para cada recurso.
@@ -93,10 +93,13 @@ Yo en lo personal, no veo este tema tan polarizado, y no inclino la balanza por 
 
 # Conclusión
 <p style='text-align: justify;'>
-Los números de versión sirven para marcar cambios, sin embargo, en esta ocasión los números de versión de los API’s no marcan cambios en la funcionalidad del software, o cuantas mejoras se han integrado. Sino que indica la compatibilidad de un consumidor, garantizando que, por actualizar el componente, los consumidores del API tengan inconvenientes, fallas o se vena en apuros para hacer sus aplicaciones compatibles con los nuevos cambios integrados al API.
+Los números de versión sirven para marcar cambios, sin embargo, en esta ocasión los números de versión de los API’s no marcan cambios en la funcionalidad del software, o cuantas mejoras se han integrado. Sino que indica la compatibilidad de un consumidor, garantizando que, por actualizar el componente, los consumidores del API no tengan inconvenientes, fallas o se vena en apuros para hacer sus aplicaciones compatibles con los nuevos cambios integrados al API.
 </p>
 
 <p style='text-align: justify;'>
 Existen diferentes formas de colocar el número de versión que se va a consumir, y no hay argumentos de suficiente peso (en lo personal) para pensar que una forma sea mejor que la otra.
+</p>
+
+<p style='text-align: justify;'>
 Finalmente el equipo que da seguimiento y desarrollo al API, debe estar muy claro que la no afectación de los consumidores es también una prioridad de ellos, y que deben estar bien claros cuando existe dicha afectación para liberar una versión nueva del API.
 </p>
