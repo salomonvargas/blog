@@ -33,7 +33,7 @@ Pues actualmente, en todas partes los encontramos, y te cito algunos ejemplos co
 
 # ¿Cómo son los números de versión de los API’s?
 <p style='text-align: justify;'>
-Al igual que todo lo que es creado a partir de código fuente, refleja cambios, y debe dar una noción de la deferencia de las capacidades de un componente a otro, se ocupan los números de versión, por eso, los API’s no son la excepción.
+Al igual que todo lo que es creado a partir de código fuente, refleja cambios, y debe dar una noción de la diferencia de las capacidades de un componente a otro, se ocupan los números de versión, por eso, los API’s no son la excepción.
 </p>
 
 <p style='text-align: justify;'>
