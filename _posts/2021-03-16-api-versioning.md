@@ -37,7 +37,7 @@ Al igual que todo lo que es creado a partir de código fuente, refleja cambios, 
 </p>
 
 <p style='text-align: justify;'>
-Los números de versión de los API’s usualmente constan de uno o dos grupos de números enteros positivos, como por ejemplo 2 o el 1.0. Y es muy importante aclarar que los API’s publicados pueden tener varias versiones publicadas de forma simultanea, a diferencia de las otras aplicaciones comunes que instalamos en nuestros equipos, un ejemplo de esto sería una aplicación móvil de mensajería, no es factible (y no tiene mucho sentido hacerlo) instalar más de una versión de la misma aplicación en el celular. Pero, entonces, porqué tiene sentido que si ocurra esto en los API’s.
+Los números de versión de los API’s usualmente constan de uno o dos grupos de números enteros positivos, como por ejemplo 2 o el 1.0. Y es muy importante aclarar que los API’s publicados pueden tener varias versiones publicadas de forma simultanea, a diferencia de las otras aplicaciones comunes que instalamos en nuestros equipos, un ejemplo de esto sería una aplicación móvil de mensajería, no es factible (y no tiene mucho sentido hacerlo) instalar más de una versión de la misma aplicación en el celular. Pero, entonces, ¿por qué tiene sentido que si ocurra esto en los API’s?.
 </p>
 
 <p style='text-align: justify;'>
