@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estructuras de directorios en repositorios
-subtitle: De seguro has escuchado de la frase de “Caóticamente hermoso”, bien no siempre esta suele ser tan poética como deseamos. 
+subtitle: La estandarización es vital en los procesos automáticos y como humanos nos ayuda a comprender mejor los entornos y tareas en las que trabajamos. Los repositorios no son la excepción.
 cover-img: /assets/img/landcapes/mountains.jpg
 thumbnail-img: /assets/img/icons/directories.png
 #share-img: /assets/img/path.jpg
