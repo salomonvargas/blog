@@ -9,22 +9,15 @@ subtitle: Especialista DevOps
     <p style="font-weight: bold;">Espero poderte ayudar mientras crezco como profesional</p>
 </div>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 Hola, soy un especialista DevOps, apacionado por mi trabajo y encantado de ayudar a eliminar inconvenientes en los ciclos de vida de las aplicaciones, los beneficios que DevOps trae a sus practicantes son parte de la recompenza y satisfacción.
-</div>
-<br>
-
-<div style="text-align: justify">
+</p>
+<p style="text-align: justify">
 Convencido evangelista de la integración y el despliegue contínuos, Fiel creyente de que las puestas a producción no deben ser traumatizantes para nadie, y que pueden ser simples si se es propuesto adecuadamente.
-</div>
-<br>
-
-<div style="text-align: justify">
+</p>
+<p style="text-align: justify">
 Como entusiasta del DevOps, quiero ayudar en todo lo que pueda a desaparecer muchos problemas que con DevOps pasan a ser solo malos recuerdos.
-</div>
-<br>
-
-<div style="text-align: justify">
+</p>
+<p style="text-align: justify">
 Quiero con este blog poderte ayudar a solucionar problemas y conocer más sobre DevOps y tecnologías.
-</div>
-<br>
+</p>
